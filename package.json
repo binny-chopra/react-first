@@ -1,0 +1,22 @@
+{
+  "name": "react-first",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binny-chopra/react-first.git"
+  },
+  "author": "Binny Chopra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binny-chopra/react-first/issues"
+  },
+  "homepage": "https://github.com/binny-chopra/react-first#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
