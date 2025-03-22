@@ -6,3 +6,5 @@
 # Running using scripts
 # npm run start or npm start
 # npm run build
+
+# React lifecycle diagram - https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
